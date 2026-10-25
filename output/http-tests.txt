@@ -1,0 +1,10 @@
+test_failed_replacement_discards_old_batch (test_http.HTTPTests.test_failed_replacement_discards_old_batch) ... ok
+test_idle_browser_preconnection_does_not_block_other_requests (test_http.HTTPTests.test_idle_browser_preconnection_does_not_block_other_requests) ... ok
+test_load_source_preview_export_and_clear (test_http.HTTPTests.test_load_source_preview_export_and_clear) ... ok
+test_missing_token_and_cross_origin_blocked (test_http.HTTPTests.test_missing_token_and_cross_origin_blocked) ... ok
+test_static_assets_local_and_no_arbitrary_file (test_http.HTTPTests.test_static_assets_local_and_no_arbitrary_file) ... ok
+
+----------------------------------------------------------------------
+Ran 5 tests in 0.650s
+
+OK

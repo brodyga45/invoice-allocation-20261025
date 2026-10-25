@@ -1,0 +1,17 @@
+test_broken_pdf_isolated_and_blocked_export (test_allocation.AllocationTests.test_broken_pdf_isolated_and_blocked_export) ... ok
+test_crop_rotation_and_other_pages_preserved (test_allocation.AllocationTests.test_crop_rotation_and_other_pages_preserved) ... ok
+test_csv_bom_quotes_and_required_values (test_allocation.AllocationTests.test_csv_bom_quotes_and_required_values) ... ok
+test_duplicate_employee_ids_blocked_but_duplicate_names_retained (test_allocation.AllocationTests.test_duplicate_employee_ids_blocked_but_duplicate_names_retained) ... ok
+test_encrypted_annotated_and_interactive_rejected (test_allocation.AllocationTests.test_encrypted_annotated_and_interactive_rejected) ... ok
+test_explicit_approval_and_employee_validation (test_allocation.AllocationTests.test_explicit_approval_and_employee_validation) ... ok
+test_long_and_unsupported_glyph_values (test_allocation.AllocationTests.test_long_and_unsupported_glyph_values) ... ok
+test_manual_duplicate_resolution_and_report (test_allocation.AllocationTests.test_manual_duplicate_resolution_and_report) ... ok
+test_no_substring_employee_match (test_allocation.AllocationTests.test_no_substring_employee_match) ... ok
+test_original_bytes_preserved_and_output_text (test_allocation.AllocationTests.test_original_bytes_preserved_and_output_text) ... ok
+test_scanned_page_manual_selection_and_copy (test_allocation.AllocationTests.test_scanned_page_manual_selection_and_copy) ... ok
+test_unique_duplicate_missing_unicode (test_allocation.AllocationTests.test_unique_duplicate_missing_unicode) ... ok
+
+----------------------------------------------------------------------
+Ran 12 tests in 0.087s
+
+OK
