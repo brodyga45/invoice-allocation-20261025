@@ -38,6 +38,16 @@ This is a fictional-data candidate, not a customer deployment or paid acceptance
 - All input examples, names and allocations are fictional. No client HR data or
   screening results, credentials, customer files or payment records were used.
 
-Independent product review pending. No live publication or second customer
-message is implied by this candidate package. The separate $150 quote is not an
-order, receipt or evidence of willingness to pay.
+Independent product review completed on 25 Oct 2026. A separate team agent,
+Rasp, checked the frozen a1273ae7a736113d5aa074e0de5d93b3710f16af385b1db6bf8646a342980a10
+archive and kept the complete demonstrable workflow within its documented scope.
+The independent browser check covered proposals, original/copy canvas, manual
+same-name selection, explicit approval, approval reset and Clear. Separate HTTP
+export checks verified the ZIP/report/hashes and two rendered resulting PDFs.
+No blocking defect was reproduced in that scope. Acceptance of the taller first
+page by an actual accounting recipient remains unproven. Browser saved-ZIP,
+Windows and customer-compatibility limits above remain unchanged.
+
+This documentation revision records the review; it changes no runtime code or
+fixtures. No client delivery, order, receipt or willingness to pay is implied by
+the separate $150 quote.
