@@ -8,6 +8,13 @@ of compatibility with an unknown invoice layout.
 
 ## Run
 
+A Windows x64 portable candidate is being built in this repository's
+**Windows portable candidate** workflow. A successful run must test the actual
+executable before its ZIP is offered as a download. Until that result is recorded,
+use the source instructions below. Portable builds are unsigned; they do not
+establish customer installation, browser behavior or your accounting team's
+acceptance. No security-warning bypass or administrator setup is requested.
+
 Python 3.10+ is required. From the extracted folder:
 
 On Windows with the Python launcher installed, you can instead double-click

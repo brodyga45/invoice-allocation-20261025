@@ -2,9 +2,15 @@
 
 - **Our Python/HTML/CSS/JS:** original AI-assisted work, MIT (LICENSE).
 - **pypdf 6.10.0:** BSD-3-Clause, https://github.com/py-pdf/pypdf . Installed from
-  PyPI rather than bundled; its upstream notice remains with the installed package.
+  PyPI for source use; the portable build includes its installed license notice.
 - **ReportLab 4.4.9:** BSD-style ReportLab license, https://www.reportlab.com/ .
-  Installed from PyPI rather than bundled; upstream notice stays with its package.
+  Installed from PyPI for source use; the portable build includes its installed notice.
+- **Portable Windows candidate:** packages CPython and runtime dependencies,
+  including Pillow and charset-normalizer. Installed versions are recorded in
+  BUILD-VERSIONS.json; upstream license/notice files are copied into licenses/.
+  PyInstaller6.22.3 builds the executable using its distribution exception; its
+  installed license is included as well. These components retain their own
+  licenses, independently of the MIT application. No proprietary SDK is included.
 - **NotoSans-Regular.ttf:** unmodified official notofonts/noto-fonts archived
   repository, `hinted/ttf/NotoSans/NotoSans-Regular.ttf`, retrieved 25 Oct 2026.
   https://github.com/notofonts/noto-fonts/blob/main/hinted/ttf/NotoSans/NotoSans-Regular.ttf
